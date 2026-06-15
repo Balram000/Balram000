@@ -1,21 +1,3 @@
-## Hi there 👋
-
-<!--
-**## About Me
-
-🔭 I'm currently working on Full Stack MERN Projects
-
-👯 I'm looking to collaborate on Open Source and Web Development Projects
-
-🤝 I'm looking for help with System Design and Scalable Backend Architecture
-
-🌱 I'm currently learning Advanced React, Node.js, MongoDB, DevOps, and Data Structures & Algorithms
-
-💬 Ask me about JavaScript, React, Node.js, Express.js, MongoDB, and Git
-
-⚡ Fun fact: Solving coding problems and building projects every day to become a Software Engineer.
-
-
 # 💫 About Me:
 ## About Me<br><br>🔭 I'm currently working on Full Stack MERN Projects<br><br>👯 I'm looking to collaborate on Open Source and Web Development Projects<br><br>🤝 I'm looking for help with System Design and Scalable Backend Architecture<br><br>🌱 I'm currently learning Advanced React, Node.js, MongoDB, DevOps, and Data Structures & Algorithms<br><br>💬 Ask me about JavaScript, React, Node.js, Express.js, MongoDB, and Git<br><br>⚡ Fun fact: Solving coding problems and building projects every day to become a Software Engineer.
 
