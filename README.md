@@ -1,5 +1,70 @@
 # 💫 About Me:
-## About Me<br><br>🔭 I'm currently working on Full Stack MERN Projects<br><br>👯 I'm looking to collaborate on Open Source and Web Development Projects<br><br>🤝 I'm looking for help with System Design and Scalable Backend Architecture<br><br>🌱 I'm currently learning Advanced React, Node.js, MongoDB, DevOps, and Data Structures & Algorithms<br><br>💬 Ask me about JavaScript, React, Node.js, Express.js, MongoDB, and Git<br><br>⚡ Fun fact: Solving coding problems and building projects every day to become a Software Engineer.
+## About Me<br><br>🔭 I'm currently working on Full Stack MERN Projects<br><br>👯 I'm looking to collaborate on Open Source and Web Development Projects<br><br>🤝 I'm looking for help with System Design and Scalable Backend Architecture<br><br>🌱 I'm currently learning Advanced React, Node.js, MongoDB, DevOps, and Data Structures & Algorithms<br><br>💬 Ask me about JavaScript, React, Node.js, Express.js, MongoDB, and Git<br><br>⚡ Fun fact: Solving coding👋 Hi, I'm Balram
+
+🚀 Full Stack Developer | MERN Stack | Backend Enthusiast | Problem Solve
+
+- 💻 Full Stack Developer focused on building scalable web applications.
+- 🌱 Currently improving my skills in React, Node.js, Express.js, MongoDB, and SQL.
+- 🧠 Learning Data Structures & Algorithms and System Design.
+- 🎯 Goal: Build production-ready applications and contribute to open-source projects.
+
+🛠️ Tech Stack
+
+Frontend
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React.js
+- Tailwind CSS
+- Bootstrap
+
+Backend
+
+- Node.js
+- Express.js
+- REST APIs
+
+Databases
+
+- MongoDB
+- MySQL
+
+Tools & Technologies
+
+- Git
+- GitHub
+- VS Code
+- Postman
+- npm
+- Vite
+
+📚 Currently Learning
+
+- Advanced React
+- Authentication & Authorization
+- Redis
+- Docker
+- System Design
+- DevOps Fundamentals
+
+📈 GitHub Stats
+
+- 💻 Building real-world projects
+- 🚀 Continuously learning and improving
+- ⭐ Open to collaboration
+
+📫 Connect With Me
+
+- GitHub: https://github.com/Balram000
+- LinkedIn: https://www.linkedin.com/in/balram-sardar
+- Email: balramsardar1111@gmail.com
+
+---
+
+⭐ "Code. Learn. Build. Repeat." problems and building projects every day to become a Software Engineer.
+
+
 
 
 # 💻 Tech Stack:
