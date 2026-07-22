@@ -1,80 +1,90 @@
-# 💫 About Me:
-## About Me<br><br>🔭 I'm currently working on Full Stack MERN Projects<br><br>👯 I'm looking to collaborate on Open Source and Web Development Projects<br><br>🤝 I'm looking for help with System Design and Scalable Backend Architecture<br><br>🌱 I'm currently learning Advanced React, Node.js, MongoDB, DevOps, and Data Structures & Algorithms<br><br>💬 Ask me about JavaScript, React, Node.js, Express.js, MongoDB, and Git<br><br>⚡ Fun fact: Solving coding👋 Hi, I'm Balram
+<h1 align="center">Hi 👋, I'm Balram</h1>
+<h3 align="center">🚀 Full Stack MERN Developer | Backend Enthusiast | Problem Solver</h3>
 
-🚀 Full Stack Developer | MERN Stack | Backend Enthusiast | Problem Solve
-
-- 💻 Full Stack Developer focused on building scalable web applications.
-- 🌱 Currently improving my skills in React, Node.js, Express.js, MongoDB, and SQL.
-- 🧠 Learning Data Structures & Algorithms and System Design.
-- 🎯 Goal: Build production-ready applications and contribute to open-source projects.
-
-🛠️ Tech Stack
-
-Frontend
-
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- React.js
-- Tailwind CSS
-- Bootstrap
-
-Backend
-
-- Node.js
-- Express.js
-- REST APIs
-
-Databases
-
-- MongoDB
-- MySQL
-
-Tools & Technologies
-
-- Git
-- GitHub
-- VS Code
-- Postman
-- npm
-- Vite
-
-📚 Currently Learning
-
-- Advanced React
-- Authentication & Authorization
-- Redis
-- Docker
-- System Design
-- DevOps Fundamentals
-
-📈 GitHub Stats
-
-- 💻 Building real-world projects
-- 🚀 Continuously learning and improving
-- ⭐ Open to collaboration
-
-📫 Connect With Me
-
-- GitHub: https://github.com/Balram000
-- LinkedIn: https://www.linkedin.com/in/balram-sardar
-- Email: balramsardar1111@gmail.com
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Balram000&label=Profile%20Views&color=0e75b6&style=flat" alt="Balram000" />
+</p>
 
 ---
 
-⭐ "Code. Learn. Build. Repeat." problems and building projects every day to become a Software Engineer.
+## 💫 About Me
 
-
-
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Balram000&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Balram000&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Balram000&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 💻 Passionate **Full Stack MERN Developer**
+- 🔭 Currently building **production-ready Full Stack applications**
+- 🌱 Learning **Advanced React, Node.js, System Design, Docker & DevOps**
+- 🤝 Open to collaborating on **Open Source** and **Web Development Projects**
+- 💬 Ask me about **JavaScript, React, Node.js, Express.js, MongoDB, Git**
+- 📚 Solving **Data Structures & Algorithms** every day
+- 🎯 Goal: Become a **Software Engineer** and build scalable products
+- ⚡ Fun Fact: I enjoy turning ideas into real-world applications.
 
 ---
-[![](https://komarev.com/ghpvc/?username=Balram000&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💻 Tech Stack
+
+### 🚀 Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🎨 Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### ⚙ Backend
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### 🗄 Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🛠 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Balram000&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Balram000&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Balram000&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+# 🌐 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Balram000)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/balram-sardar)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:balramsardar1111@gmail.com)
+
+---
+
+## 🚀 Current Focus
+
+- 🔹 Full Stack MERN Development
+- 🔹 Backend Architecture
+- 🔹 REST APIs
+- 🔹 System Design
+- 🔹 Docker & DevOps
+- 🔹 Data Structures & Algorithms
+
+---
+
+<h3 align="center">⭐ Code • Learn • Build • Repeat ⭐</h3>
